@@ -7,7 +7,7 @@ It uses xpath rather than css selectors.
 ## Install
 
 ```
-go get github.com/ericchiang/xpup
+go install github.com/ericchiang/xpup@latest
 ```
 
 Binary installs coming soon.
